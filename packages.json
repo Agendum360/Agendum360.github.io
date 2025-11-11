@@ -6,9 +6,5 @@
       "type": "vcs",
       "url": "git@github.com:Agemdum360/agendum-ddt-module.git"
     }
-  ],
-  "metadata-url": "/p/%package%$%hash%.json",
-  "notify-batch": "/downloads/",
-  "notify": "/downloads/%package%",
-  "providers-url": "/p/%package%$%hash%.json"
+  ]
 }
