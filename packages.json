@@ -1,10 +1,19 @@
 {
-  "packages": [],
-  "includes": {},
-  "repositories": [
-    {
-      "type": "vcs",
-      "url": "git@github.com:Agemdum360/agendum-ddt-module.git"
+  "packages": {
+    "agemdum/agendum-ddt-module": {
+      "0.1.0": {
+        "name": "agemdum/agendum-ddt-module",
+        "version": "0.1.0",
+        "source": {
+          "type": "git",
+          "url": "git@github.com:Agemdum360/agendum-ddt-module.git",
+          "reference": "main"
+        },
+        "require": {
+          "php": ">=8.0"
+        }
+      }
     }
-  ]
+  },
+  "includes": {}
 }
